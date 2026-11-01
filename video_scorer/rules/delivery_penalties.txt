@@ -1,0 +1,106 @@
+==============================================================================
+META ADS DELIVERY PENALTIES: WHAT RAISES YOUR CPM (2025, compiled from practitioner experience)
+==============================================================================
+Not official Meta policy. These are patterns observed to raise costs or limit reach.
+
+------------------------------------------------------------------------------
+SECTION 1: THE VISUAL QUALITY TAX (THE "GLANCE" PENALTY)
+------------------------------------------------------------------------------
+[1.1] THE "20% TEXT" GHOST RULE
+      - Status: Officially removed, ALGORITHMICALLY ACTIVE.
+      - Penalty: Reach throttling + Higher bid cost to win impressions.
+      - Triggers:
+          * Text covering >20% of the image grid.
+          * Logos that function as text headlines.
+          * "Wall of Text" overlays (e.g., screenshots of Twitter/Reviews without padding).
+
+[1.2] VISUAL ENTROPY (CLUTTER TAX)
+      - Logic: "Messy ads look like spam."
+      - Triggers:
+          * No clear focal point (eye scans wildly).
+          * High-contrast "glitch" artifacts or deep-fried memes (unless highly native).
+          * Neon clashing colors (e.g., bright red text on bright blue background).
+          * Multiple competing buttons/arrows.
+
+[1.3] THE "STOCK PHOTO" FATIGUE SIGNAL
+      - Logic: Meta lowers quality score for overused assets.
+      - Triggers:
+          * Images matching generic stock hashes (e.g., "Man in suit shaking hands").
+          * Watermarks (Shutterstock, Getty) = INSTANT DEATH.
+          * Low resolution (<1080x1080) or visible compression artifacts.
+
+[1.4] ARTIFICIAL FUNCTIONALITY (FAKE UI)
+      - Penalty: High Risk (Borderline Policy Violation).
+      - Triggers:
+          * Fake "Play" buttons on static images.
+          * Fake "Swipe" carousels dots on a single image.
+          * Fake "Notification" badges (Red '1') embedded in the creative.
+          * Non-functional "checkboxes" or "radio buttons".
+
+------------------------------------------------------------------------------
+SECTION 2: THE ENGAGEMENT BAIT TAX (THE "SPAM" PENALTY)
+------------------------------------------------------------------------------
+[2.1] VOTE BAITING
+      - Triggers: "Like for Yes, Love for No", "Vote with your reaction".
+
+[2.2] REACT BAITING
+      - Triggers: "Like this post if...", "Tag a friend who needs this...".
+
+[2.3] SHARE BAITING
+      - Triggers: "Share this to save a life", "Share with 5 friends".
+
+[2.4] COMMENT BAITING
+      - Triggers: "Type 'YES' below to unlock...", "Comment 'INFO' for price".
+      - Note: Many bots do this; doing it manually flags you as "Low Quality".
+
+------------------------------------------------------------------------------
+SECTION 3: THE PREDATORY ATTRIBUTE TAX (THE "PERSONAL" PENALTY)
+------------------------------------------------------------------------------
+[3.1] DIRECT ADDRESS ("YOU" SYNDROME)
+      - Logic: Im plying knowledge of user's secrets/insecurities.
+      - Triggers:
+          * "Are you [Condition]?" (e.g., "Are you broke?", "Are you lonely?").
+          * "Struggling with [Problem]?" (e.g., "Struggling with acne?").
+          * "Meet other [Group]" (e.g., "Meet other Christian Singles").
+      - Safe Alternative: Focus on the product/solution, not the user's state.
+        (BAD: "Cure your fat" -> GOOD: "Fat loss solution").
+
+[3.2] NEGATIVE SELF-PERCEPTION (ZOOM PENALTY)
+      - Triggers:
+          * Zoomed-in shots of body parts (bellies, acne, wrinkles).
+          * "Before and After" images where the "Before" is painful/gross.
+          * Tape measures around waists.
+          * Scales showing weight.
+
+[3.3] FINANCIAL PREDATION
+      - Triggers:
+          * "Get rich quick" implications.
+          * Images of cash stacks or crypto wallets.
+          * "Quit your job today".
+
+------------------------------------------------------------------------------
+SECTION 4: THE POST-CLICK EXPERIENCE TAX (THE "BOUNCE" PENALTY)
+------------------------------------------------------------------------------
+[4.1] THE "BAIT AND SWITCH"
+      - Trigger: Ad promises "Free Guide", Landing Page asks for Credit Card immediately.
+      - Trigger: Ad shows "Product A", Landing Page is a generic collection.
+
+[4.2] LANDING PAGE LOAD SPEED
+      - Penalty: If LCP (Largest Contentful Paint) > 2.5s, CPM rises.
+      - Logic: Meta hates sending users to slow sites (bad user experience).
+
+[4.3] EXCESSIVE POP-UPS
+      - Trigger: Immediate full-screen email capture on landing page load.
+      - Trigger: Multiple interstitials blocking content.
+
+------------------------------------------------------------------------------
+SECTION 5: THE SENSATIONALISM TAX (CLICKBAIT)
+------------------------------------------------------------------------------
+[5.1] WITHHOLDING INFORMATION
+      - Triggers: "You won't believe what happened next...", "The secret doctors hide...".
+      - Logic: Forcing a click to understand the context.
+
+[5.2] EXAGGERATED LANGUAGE
+      - Triggers: "Miracle cure", "Shocking truth", "Blow your mind".
+      - Note: ALL CAPS usage in headlines also contributes to this score.
+==============================================================================

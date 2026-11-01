@@ -1,0 +1,63 @@
+META ADVERTISING STANDARDS: A WORKING SUMMARY (2025, paraphrased, not the official text: https://transparency.meta.com/policies/ad-standards/)
+
+[PRINCIPLES]
+1. PROTECTING PEOPLE FROM UNSAFE AND DISCRIMINATORY PRACTICES: Advertisers must comply with laws, not engage in discriminatory practices, and not sell illegal or unsafe substances.
+2. PROTECTING PEOPLE FROM FRAUD OR SCAMS: Ads must not promote products, services, schemes, or offers using deceptive or misleading practices, including those meant to scam people out of money or personal information.
+3. PROMOTING POSITIVE USER EXPERIENCES: Ads must not contain shocking, sensational, or excessively violent content, certain adult content, and profanity. We prohibit content implying or attempting to generate negative self-perception in order to promote diet, weight loss, or other health-related products.
+
+[UNACCEPTABLE CONTENT]
+1. ILLEGAL PRODUCTS OR SERVICES: Ads must not constitute, facilitate, or promote illegal products, services, or activities.
+2. DISCRIMINATORY PRACTICES: Ads must not discriminate or encourage discrimination against people based on personal attributes such as race, ethnicity, colour, national origin, religion, age, sex, sexual orientation, gender identity, family status, disability, medical or genetic condition.
+3. TOBACCO AND RELATED PRODUCTS: Ads must not promote the sale or use of tobacco or nicotine products and related paraphernalia (e.g., electronic cigarettes, vaporisers). Cessation products are allowed with restrictions.
+4. DANGEROUS SUBSTANCES: Ads must not promote the sale or use of illicit or recreational drugs, or other unsafe substances, products, or supplements.
+5. WEAPONS, AMMUNITION OR EXPLOSIVES: Ads must not promote the sale or use of weapons, ammunition, or explosives, including weapon modification accessories.
+6. ADULT PRODUCTS OR SERVICES: Ads must not promote the sale or use of adult products or services. Ads for family planning and contraception are allowed if targeted to people 18+.
+7. ADULT NUDITY AND SEXUAL ACTIVITY: Ads must not contain adult nudity, depictions of people in explicit or sexually suggestive positions, or activities that are sexually suggestive.
+8. ADULT SEXUAL SOLICITATION: Ads must not facilitate sexual encounters, commercial sexual services between adults, or content asking for/offering pornographic content.
+9. SENSATIONAL CONTENT: Ads must not contain shocking, sensational, inflammatory, or excessively violent content.
+10. PERSONAL ATTRIBUTES: Ads must not contain content that asserts or implies personal attributes. This includes direct or indirect assertions or implications about a person’s race, ethnicity, religion, beliefs, age, sexual orientation, gender identity, disability, physical or mental health (including medical conditions), vulnerable financial status, voting status, membership in a trade union, criminal record, or name.
+11. MISINFORMATION: Ads must not include content debunked by third-party fact-checkers or discourage vaccination.
+12. CONTROVERSIAL CONTENT: Ads must not exploit crises or controversial events for commercial purposes.
+13. NON-FUNCTIONAL LANDING PAGE: Ads must not direct people to non-functional landing pages (e.g., pages that force a download, contain malware, or do not match the product promoted).
+14. CHEATING AND DECEIT PRACTICES: Ads must not promote products or services designed to enable a user to engage in cheating or deceitful practices (e.g., hacking software, academic cheating services).
+15. GRAMMAR AND PROFANITY: Ads must not contain profanity or bad grammar and punctuation. Symbols, numbers, and letters must be used properly.
+16. PERSONAL HEALTH: Ads must not contain "before-and-after" images or images that contain unexpected or unlikely results. Ads must not imply or attempt to generate negative self-perception in order to promote diet, weight loss, or other health-related products.
+17. PAYDAY LOANS, PAYSLIP ADVANCES, AND BAIL BONDS: Ads must not promote payday loans, payslip advances, or bail bonds.
+18. MULTI-LEVEL MARKETING: Ads promoting income opportunities must fully describe the associated product or business model and must not promote business models offering quick compensation for little investment (MLM).
+19. PENNY AUCTIONS: Ads may not promote penny auctions, bidding fee auctions, or other similar business models.
+20. MISLEADING CLAIMS: Ads must not contain deceptive, false, or misleading claims like those relating to the effectiveness or characteristics of a product or service.
+21. LOW QUALITY OR DISRUPTIVE CONTENT: Ads must not contain content leading to external landing pages that provide an unexpected or disruptive experience (e.g., misleading ad positioning, excessive pop-ups).
+22. SPYWARE OR MALWARE: Ads must not contain spyware, malware, or any software that results in an unexpected or deceptive experience.
+23. AUTOMATIC ANIMATION: Ads must not contain audio or flash animation that plays automatically without a person's interaction.
+24. UNACCEPTABLE BUSINESS PRACTICES: Ads must not promote products, services, schemes, or offers using deceptive or misleading practices, including those meant to scam people out of money or personal information.
+25. CIRCUMVENTING SYSTEMS: Ads must not use tactics intended to circumvent our ad review process or other enforcement systems (e.g., using unicode characters in text to obscure words, restricting access to landing page).
+26. PROHIBITED FINANCIAL PRODUCTS AND SERVICES: Ads must not promote Initial Coin Offerings (ICOs), binary options, or contract for difference trading.
+27. SALE OF BODY PARTS: Ads must not promote the sale of human body parts or fluids.
+28. VACCINE DISCOURAGEMENT: Ads must not discourage people from vaccination or advocate against vaccines.
+
+[RESTRICTED CONTENT - REQUIRES PERMISSION OR SPECIAL TARGETING]
+1. ALCOHOL: Ads promoting alcohol must comply with local laws and target 18+ (or higher depending on region).
+2. DATING: Ads for dating services are only allowed with prior written permission.
+3. ONLINE GAMBLING AND GAMING: Ads promoting online gambling, real-money gaming, or skill-based gaming require prior written permission.
+4. ONLINE PHARMACIES: Ads for online pharmacies require prior written permission.
+5. PROMOTION OF PRESCRIPTION DRUGS: Ads may only promote prescription drugs with prior written permission (limited to pharmaceutical manufacturers, telehealth providers, etc.).
+6. FINANCIAL AND INSURANCE PRODUCTS: Ads must be targeted to people 18+.
+7. CRYPTOCURRENCY PRODUCTS: Ads may not promote cryptocurrency trading platforms, software, and related services without prior written permission.
+8. COSMETIC PROCEDURES AND WEIGHT LOSS: Ads marketing weight loss products or cosmetic surgeries must be targeted to people 18+.
+9. SOCIAL ISSUES, ELECTIONS OR POLITICS: Advertisers must complete the authorisation process and include "Paid for by" disclaimers.
+
+[OBJECTIONABLE CONTENT - EXTRA SAFETY MEASURES, MIGHT SUSPEND THE ACCOUNT ]
+[Adult Nudity and Sexual Activity] Ads must not contain adult nudity and sexual activity. This includes nudity, depictions of people in explicit or sexually suggestive positions.
+[Adult Sexual Solicitation] Ads must not contain content that facilitates sexual encounters.
+[Privacy Violations] Ads must not contain content that asserts or implies personal attributes. This includes direct or indirect assertions or implications about a person's race, ethnicity, religion, beliefs, age, sexual orientation, gender identity, disability, physical or mental health, vulnerable financial status, voting status, membership in a trade union, criminal record or name.
+[Violent and Graphic Content] Ads must not contain shocking, sensational or excessively violent content.
+
+[VIDEO ADS SPECIFICS]
+1. DISRUPTIVE CONTENT: Videos must not use overly disruptive tactics, such as flashing screens.
+2. ENTERTAINMENT RESTRICTIONS: Ads for film trailers, TV shows, etc., depicting mature content (drug use, profanity, gore) must target 18+ and require prior written permission.
+
+[LEAD ADS SPECIFICS]
+1. PROHIBITED QUESTIONS: Advertisers must not request the following without prior written permission: Account numbers, Criminal history, Financial information, Government-issued identifiers, Health information, Insurance information, Political affiliation, Race or ethnicity, Religion, Sexual orientation, Trade Union membership, Username/Passwords.
+
+[BRANDED CONTENT]
+Ads promoting branded content must tag the featured third-party product, brand or business partner using the branded content tool.
